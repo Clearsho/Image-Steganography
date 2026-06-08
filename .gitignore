@@ -1,0 +1,4 @@
+stego
+*.bmp
+output.txt
+secret.txt
